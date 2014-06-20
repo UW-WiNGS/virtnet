@@ -23,5 +23,5 @@ Authors
 
  * Joshua Hare
  * Lance Hartung <hartung@cs.wisc.edu>
- * Suman Banerjee
+ * Suman Banerjee <suman@cs.wisc.edu>
 
