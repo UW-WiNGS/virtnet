@@ -21,7 +21,7 @@ Features
 Authors
 -------
 
- * Joshua Hare
+ * Joshua Hare <hare@cs.wisc.edu>
  * Lance Hartung <hartung@cs.wisc.edu>
  * Suman Banerjee <suman@cs.wisc.edu>
 
